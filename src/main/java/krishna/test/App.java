@@ -16,5 +16,11 @@ public class App
         System.out.println( "Kumar" );
         System.out.println( "Tripathi" );
         System.out.println( "Om" );
+        System.out.println( "Om" );
+        System.out.println( "Om" );
+        System.out.println( "Om" );
+        System.out.println( "Om" );
+        System.out.println( "Om" );
+        System.out.println( "Om" );
     }
 }
