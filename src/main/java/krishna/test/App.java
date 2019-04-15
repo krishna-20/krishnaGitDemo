@@ -37,4 +37,62 @@ public class App
         
         
     }
+	@Test
+	   public void test2()
+	    {
+	        System.out.println( "Hello World!" );
+	        System.out.println( "Krishna" );
+	        System.out.println( "Kumar" );
+	        System.out.println( "Tripathi" );
+	        System.out.println( "Om" );
+	        System.out.println( "Om" );
+	        System.out.println( "Om" );
+	        System.out.println( "Om" );
+	        System.out.println( "Om" );
+	        System.out.println( "Om" );
+	        System.out.println( "Om" );
+	        System.out.println( "Hello World!" );
+	        System.out.println( "Krishna" );
+	        System.out.println( "Kumar" );
+	        System.out.println( "Hello World!" );
+	        System.out.println( "Krishna" );
+	        System.out.println( "Kumar" );
+	        System.out.println( "Hello World!" );
+	        System.out.println( "Krishna" );
+	        System.out.println( "Kumar" );
+	        System.out.println( "Hello World!" );
+	        System.out.println( "Krishna" );
+	        System.out.println( "Kumar" );
+	        
+	        
+	    }
+	@Test
+	   public void test1()
+	    {
+	        System.out.println( "Hello World!" );
+	        System.out.println( "Krishna" );
+	        System.out.println( "Kumar" );
+	        System.out.println( "Tripathi" );
+	        System.out.println( "Om" );
+	        System.out.println( "Om" );
+	        System.out.println( "Om" );
+	        System.out.println( "Om" );
+	        System.out.println( "Om" );
+	        System.out.println( "Om" );
+	        System.out.println( "Om" );
+	        System.out.println( "Hello World!" );
+	        System.out.println( "Krishna" );
+	        System.out.println( "Kumar" );
+	        System.out.println( "Hello World!" );
+	        System.out.println( "Krishna" );
+	        System.out.println( "Kumar" );
+	        System.out.println( "Hello World!" );
+	        System.out.println( "Krishna" );
+	        System.out.println( "Kumar" );
+	        System.out.println( "Hello World!" );
+	        System.out.println( "Krishna" );
+	        System.out.println( "Kumar" );
+	        
+	        
+	    }
 }
